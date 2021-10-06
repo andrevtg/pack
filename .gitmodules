@@ -1,0 +1,18 @@
+[submodule "personal/start/nerdtree"]
+	path = personal/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "personal/start/nerdtree-git-plugin"]
+	path = personal/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "personal/start/one"]
+	path = personal/start/one
+	url = https://github.com/rakr/vim-one.git
+[submodule "personal/start/poliglot"]
+	path = personal/start/poliglot
+	url = https://github.com/sheerun/vim-polyglot
+[submodule "personal/start/airline"]
+	path = personal/start/airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "personal/start/markdown"]
+	path = personal/start/markdown
+	url = https://github.com/plasticboy/vim-markdown
