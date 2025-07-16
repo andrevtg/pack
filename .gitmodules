@@ -28,3 +28,9 @@
 [submodule "personal/start/vim-yaml"]
 	path = personal/start/vim-yaml
 	url = https://github.com/stephpy/vim-yaml
+[submodule "personal/start/vim-fugitive"]
+	path = personal/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "personal/start/indentLine"]
+	path = personal/start/indentLine
+	url = https://github.com/Yggdroot/indentLine
