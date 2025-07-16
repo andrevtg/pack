@@ -22,3 +22,9 @@
 [submodule "personal/start/vim-kubernetes"]
 	path = personal/start/vim-kubernetes
 	url = https://github.com/andrewstuart/vim-kubernetes
+[submodule "personal/start/vim-helm"]
+	path = personal/start/vim-helm
+	url = https://github.com/towolf/vim-helm
+[submodule "personal/start/vim-yaml"]
+	path = personal/start/vim-yaml
+	url = https://github.com/stephpy/vim-yaml
