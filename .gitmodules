@@ -16,3 +16,9 @@
 [submodule "personal/start/markdown"]
 	path = personal/start/markdown
 	url = https://github.com/plasticboy/vim-markdown
+[submodule "personal/start/vim-healthcheck"]
+	path = personal/start/vim-healthcheck
+	url = https://github.com/rhysd/vim-healthcheck
+[submodule "personal/start/vim-kubernetes"]
+	path = personal/start/vim-kubernetes
+	url = https://github.com/andrewstuart/vim-kubernetes
